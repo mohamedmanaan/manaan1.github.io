@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+
+
+.paragraph{
+    border-style: outset;
+    border-width: 5px;
+    color: #fff;
+    justify-content: space-between;
+    margin: 100px;
+    border-color: goldenrod;
+    background-color: #07011e;
+    font-size: 25px;
+}
+
+.paragraph p{
+   
+    text-align: center;
+}
+
+
+.button1{
+    text-align: center;
+    padding-top: 2%;
+   
+}
+
+
+.button1:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.or p{
+    text-align: center;
+    padding-top: 2%;
+}
+
+
+.button2{
+    text-align: center;
+    padding-top: 1%;
+   
+}
+
+
+.button2:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+
+
+
